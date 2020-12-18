@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">AHP Right Decisions</string>
+    <string name="edit_message">Enter a choice / alternative</string>
+    <string name="b_value">Enter a standard / criterion</string>
+    <string name="button_send">Add</string>
+    <string name="tvStart">
+You can use in:\n\n
+
+#Various choosing like\n\n
+
+- choosing appropriate car, fridge, and other facilities for your family,\n\n
+
+- choosing suitable back pack to buy\n\n
+
+- choosing the right smart phone and its color for you\n\n
+
+- choosing appropriate place / town to build your new house\n\n
+
+- choosing the right place to travel this vacation\n\n
+
+- choosing the right Major for you in Universities\n\n
+
+- choosing suitable present for someone you love\n\n
+        #Election\n\n
+
+- choosing the appropriate leader to vote\n\n</string>
+
+    <string name="tvStar2">
+#Choosing time to do something\n\n
+-choosing the time to do homework\n\n
+-choosing the right time to meditate\n\n
+-choosing appreciate time to do some sports\n\n
+-choosing right time to propose your crush\n\n
+
+#Ranking / prioritising\n</string>
+
+    <string name="tvStart3">
+
+    1) First, enter the choices you have to choose. Eg in choosing suitable car for you, you may have choices of Honda fit, Honda Airwave, Toyota Crown etc. You can add choices by clicking add button. You must add two or more choices / alternatives. \n\n
+
+    2) And then, enter the criteria / standards you consider in choosing. Eg you may consider criteria of Safety, Cost, Style, Capacity in choosing a new car to buy. You can add criteria / standards by clicking add button. Then click Next>>.\n
+
+</string>
+    <string name="tvStart4">
+    3) Let\'s make pairwise comparisons of Criteria two by two with respect to the goal. You may have a goal of choosing something. Eg in choosing a new car to buy, my goal is " Getting the best car with an affordable price for my family ". Thus, you will have to make pairwise comparisons respecting goal, like Safety vs Cost, etc by selecting using a drop-down menu. Then, click Next button.\n\n
+
+4) This time, let\'s make pairwise comparisons of choices / alternatives with respect to each Criterion. Eg you will see a sentence " Honda Fit is Extremely more favored over Honda Civic, in Safety ". Just select appropriate weight using drop-down menu. After making all comparisons, clicking Next. \n\n
+
+5) Here you go...You will see the results describing priority of each choice or alternative. Alternative/ choice with highest priority is the best choice for you.\n
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
